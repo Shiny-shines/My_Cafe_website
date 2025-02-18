@@ -1,0 +1,67 @@
+.big_bg{
+    background-image: url("https://img.freepik.com/free-vector/blue-shiny-background_1378-145.jpg?ga=GA1.1.1461277977.1725420884&semt=ais_hybrid");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 170vh;
+    border-radius: 25px;
+}
+.des_head{
+    padding: 25px;
+    color: black;
+    font-weight: 800;
+    font-size:xx-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card_contain{
+    background-color: white;
+    padding: 10px;
+    margin:24px;
+    border-radius: 25px;
+}
+.text_contain{
+    background-color: white;
+    padding: 10px;
+    margin:80px;
+    border-radius: 25px;
+
+}
+.text_head{
+    color: red;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    padding:5px;
+
+}
+.text_content{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: larger;
+    color: black;
+  
+}
+.carousel_image{
+    
+    background-size: 100% 100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+.carousel_utube{
+    height:100vh;
+    width:100vw;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.button_back{
+    border-radius: 25px;
+    background-color: white;
+    color: green;
+    font-weight: 800;
+    padding:10px;
+    margin:5px;
+    width:138px;
+
+}
+.button_edit{
+text-align: end;
+}
